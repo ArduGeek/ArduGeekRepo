@@ -1,5 +1,3 @@
-## Welcome to ArduGeek's repository
+## Repozytorium kodu z prezentacji
 
-Electronics, computer science, operating systems, networking and much more …
-
-https://www.youtube.com/channel/UCkyT4GI_dhdfUOtO1z8cNfg/
+Cały zawarty tutaj kod, pochodzi z prezentacji, prezentowanej na konferencji (marzec 2020), w Zespole Szkól Łączności w Warszawie
